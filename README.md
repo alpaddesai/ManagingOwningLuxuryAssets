@@ -7,3 +7,5 @@ The project provides an overview of Managing and Owning Assets
 
 ## Home Ownership
 ![image](HomeOwnership.jpg)
+
+Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea
