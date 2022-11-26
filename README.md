@@ -8,4 +8,10 @@ The project provides an overview of Managing and Owning Assets
 ## Home Co-ownership 2019
 ![image](HomeOwnership.jpg)
 
+## Ethics and Excellence
+![image](EthicsandExcellence.jpg)
+
+## US Copyrights
+![image](USCopyrightCertificate.png)
+
 Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea
