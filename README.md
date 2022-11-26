@@ -5,7 +5,7 @@ The project provides an overview of Managing and Owning Assets
 ## Vehicle Ownership 2022
 ![image](VehicleOwnership.jpg)
 
-## Home Ownership 2019
+## Home Co-ownership 2019
 ![image](HomeOwnership.jpg)
 
 Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea
