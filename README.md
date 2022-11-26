@@ -9,7 +9,7 @@ The project provides an overview of Managing and Owning Assets
 ![image](HomeOwnership.jpg)
 
 ## Ethics and Excellence
-![image](EthicsandExcellence.png
+![image](EthicsandExcellence.png)
 
 ## US Copyrights
 ![image](USCopyrightCertificate.png)
