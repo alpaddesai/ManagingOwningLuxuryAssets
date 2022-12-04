@@ -14,4 +14,4 @@ The project provides an overview of Managing and Owning Assets
 ## US Copyrights
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea
+Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea2022
