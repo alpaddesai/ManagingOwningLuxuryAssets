@@ -1,4 +1,4 @@
-# Managing Owning Assets 2022
+# Managing Owning Assets 
 
 The project provides an overview of Managing and Owning Assets 
 
